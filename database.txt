@@ -1,0 +1,22 @@
+1:To kill a mockingbird:Harper Lee:4323
+2:To kill a mockingbird:Harper Lee:0
+3:To kill a mockingbird:Harper Lee:9977
+4:To kill a mockingbird:Harper Lee:1111
+5:Angels & Demons:Dan Brown:0
+6:Angels & Demons:Dan Brown:0
+7:The Great Gatsby:F. Scott Fitzgerald:0
+8:The Great Gatsby:F. Scott Fitzgerald:0
+9:A tale of two cities:Charles Dickens:0
+10:The divine comedy:Dante Alighieri:0
+11:The divine comedy:Dante Alighieri:1234
+12:The divine comedy:Dante Alighieri:0
+13:Bookless in Baghdad:Shashi Tharoor:0
+14:Electric Universe:David Bodanis:4322
+15:Electric Universe:David Bodanis:0
+16:Electric Universe:David Bodanis:0
+18:Talking Straight:Lee Iacoca:0
+19:We the Living:Rand Ayn:0
+21:We the Living:Rand Ayn:0
+22:Uncommon Wisdom:Fritjof Capra:0
+23:Uncommon Wisdom:Fritjof Capra:0
+25:Unpopular Essays:Bertrand Russell:1234
